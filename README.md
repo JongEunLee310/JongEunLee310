@@ -1,4 +1,4 @@
-<a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-FFFFFF?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
+<a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-18261F?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
 
 
 
