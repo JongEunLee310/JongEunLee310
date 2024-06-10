@@ -1,7 +1,7 @@
 
 
 ### Devops
-<a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon Web Service&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon Web Services&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF"/></a>
 
 ### Contact
