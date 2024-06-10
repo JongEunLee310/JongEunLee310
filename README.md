@@ -7,6 +7,13 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=FFFFFF"/></a>
+
+### Backend
+<a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
+
 
 ### Contact
 <a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
