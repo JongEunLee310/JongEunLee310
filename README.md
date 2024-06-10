@@ -3,6 +3,10 @@
 ### Devops
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon Web Services&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Github Actions-#2088FF?style=for-the-badge&logo=github actions&logoColor=FFFFFF"/></a>
 
 ### Contact
 <a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
