@@ -1,4 +1,4 @@
-
+🌱 I’m currently learning DevOps to become a DevOps engineer
 
 ## Devops
 ### Deployment
@@ -27,7 +27,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
 
-### Contact
+### 📫 How to reach me: ...
 <a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
 <a href="https://www.linkedin.com/in/jong-eun-lee-5094ab240/" target="_blank"><img src="https://img.shields.io/badge/Jong Eun LEE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/whddms1208@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
