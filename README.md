@@ -1,5 +1,5 @@
-<a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-18261F?style=for-the-badge&logo=velog&logoColor=20C997"/></a>
-<a href="https://www.linkedin.com/in/jong-eun-lee-5094ab240/" target="_blank"><img src="https://img.shields.io/badge/Jong Eun LEE-18261F?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/jong-eun-lee-5094ab240/" target="_blank"><img src="https://img.shields.io/badge/Jong Eun LEE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
 
 
 
