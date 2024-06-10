@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jong-eun-lee-5094ab240/" target="_blank"><img src="https://img.shields.io/badge/Jong Eun LEE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/whddms1208@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SighingOwl&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SighingOwl&show_icons=true&theme=blue-green)
 
 
 <!--
