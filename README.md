@@ -31,8 +31,12 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=FFFFFF"/></a>
 
 ## 💻 Backend
+### language
 <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
+### DB
+<a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/mariadb-003545style=for-the-badge&logo=mariadb&logoColor=FFFFFF"/></a>
 
 ### 📫 How to reach me
 <a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
