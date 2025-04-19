@@ -1,5 +1,3 @@
-🌱 I’m currently learning DevOps to become a DevOps engineer
-
 ## 💻 Devops
 ### 🏗️ Deployment
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon Web Services&logoColor=FFFFFF"/></a>
