@@ -49,11 +49,11 @@
 <a href="https://www.facebook.com/sleepyowl310" target="_blank"><img src="https://img.shields.io/badge/Jong Eun LEE-0866FF?style=for-the-badge&logo=facebook&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/whddms1208@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SighingOwl&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongEunLee310&show_icons=true&theme=blue-green)
 
 
 <!--
-**SighingOwl/SighingOwl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JongEunLee/JongEunLee310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
