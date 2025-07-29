@@ -32,8 +32,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=FFFFFF"/></a>
 
 ### Code Analysis
-<a href="" target="_blank"><img src="https://img.shields.io/badge/sonarqube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/sonarcloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/sonarqube-126ED3?style=for-the-badge&logo=sonarqubeserver&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/sonarcloud-126ED3?style=for-the-badge&logo=sonarqubecloud&logoColor=FFFFFF"/></a>
 
 ### 🖥️ OS
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/></a>
