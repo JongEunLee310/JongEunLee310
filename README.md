@@ -6,7 +6,7 @@
 ### 📡 CICD
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argo&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=FFFFFF"/></a>
 ### 🛠️ IaC
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=FFFFFF"/></a>
@@ -30,8 +30,10 @@
 
 ## 💻 Backend
 ### Languages
+<a href="" target="_blank"><img src="https://img.shields.io/badge/java-E11F20?style=for-the-badge&logo=&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
 ### Frameworks
+<a href="" target="_blank"><img src="https://img.shields.io/badge/spring-boot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
 ### DB
