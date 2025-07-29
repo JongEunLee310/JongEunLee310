@@ -33,7 +33,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/java-E11F20?style=for-the-badge&logo=&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
 ### Frameworks
-<a href="" target="_blank"><img src="https://img.shields.io/badge/spring-boot-#6DB33F?style=for-the-badge&logo=spring boot&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/spring-boot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
 ### DB
@@ -42,7 +42,7 @@
 ## 💻 Frontend
 ### Frameworks
 <a href="" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=FFFFFF"/></a>
 
 
 ## AI Tool
