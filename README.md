@@ -1,3 +1,14 @@
+## 💻 Backend
+### Languages
+<a href="" target="_blank"><img src="https://img.shields.io/badge/java-E11F20?style=for-the-badge&logo=&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
+### Frameworks
+<a href="" target="_blank"><img src="https://img.shields.io/badge/springboot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
+### DB
+<a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
+
 ## 💻 Devops
 ### 🏗️ Deployment
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=&logoColor=FFFFFF"/></a>
@@ -28,27 +39,15 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=FFFFFF"/></a>
 
-## 💻 Backend
-### Languages
-<a href="" target="_blank"><img src="https://img.shields.io/badge/java-E11F20?style=for-the-badge&logo=&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
-### Frameworks
-<a href="" target="_blank"><img src="https://img.shields.io/badge/spring-boot-#6DB33F?style=for-the-badge&logo=springboot&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
-### DB
-<a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a>
+## AI Tool
+<a href="" target="_blank"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=&logoColor=white"/></a>
 
 ## 💻 Frontend
 ### Frameworks
 <a href="" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=FFFFFF"/></a>
-
-
-## AI Tool
-<a href="" target="_blank"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=&logoColor=white"/></a>
 
 ### 📫 How to reach me
 <a href="https://velog.io/@whddms310/posts" target="_blank"><img src="https://img.shields.io/badge/whddms310-20C997?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
